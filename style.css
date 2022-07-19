@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(220, 210, 210);
+}
+table, th, td{
+    border: 1px solid blue;
+}
+
+h2{
+    text-align: center;
+}
+
